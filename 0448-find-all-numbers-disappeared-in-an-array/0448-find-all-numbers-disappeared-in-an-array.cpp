@@ -3,7 +3,7 @@ public:
     vector<int> findDisappearedNumbers(vector<int>& nums) {
         vector<int> ans;
         int n = nums.size();
-        set<int> st;
+        unordered_set<int> st;
         for(int i=1; i<=n; i++){
             st.insert(i);
         }  
