@@ -24,10 +24,12 @@ class Solution {
     }
     public int splitArray(int[] nums, int k) {
         int sum =0;
-        for(int i: nums){
-            sum += i;
-        }
         int str =0;
+        for (int it : nums) {
+            sum += it;
+            str = Math.max(str, it);
+        }
+
         int end = sum;
         int ans = -1;
         while(str<=end){
