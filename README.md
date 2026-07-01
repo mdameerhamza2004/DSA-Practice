@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0575-distribute-candies) |
 | [1207-unique-number-of-occurrences](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/1207-unique-number-of-occurrences) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 ## String
 |  |
 | ------- |
@@ -66,4 +68,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0504-base-7](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0504-base-7) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0410-split-array-largest-sum) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0410-split-array-largest-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
