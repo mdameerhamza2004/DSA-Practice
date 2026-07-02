@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0575-distribute-candies) |
+| [0704-binary-search](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0704-binary-search) |
 | [1207-unique-number-of-occurrences](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/1207-unique-number-of-occurrences) |
 ## Hash Table
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0410-split-array-largest-sum) |
+| [0704-binary-search](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0704-binary-search) |
 ## String
 |  |
 | ------- |
