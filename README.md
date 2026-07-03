@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0410-split-array-largest-sum) |
+| [0441-arranging-coins](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0704-binary-search) |
 ## String
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0441-arranging-coins](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0504-base-7) |
 ## Dynamic Programming
 |  |
