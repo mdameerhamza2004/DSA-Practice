@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0001-two-sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0217-contains-duplicate) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
