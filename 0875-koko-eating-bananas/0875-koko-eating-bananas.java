@@ -1,15 +1,15 @@
 class Solution {
-    public static boolean isValidAns(int arr[], int maxLm,int h){
+    public static boolean isValidAns(int arr[], int speed,int h){
         long time =0;
-        for(int i=0; i<arr.length;i++){
-            long cTime = 0;
-            if(arr[i]%maxLm ==0 ){
-                cTime = arr[i]/maxLm;
-            }
-            else{
-                cTime = arr[i]/maxLm+1;
-            }
-            time += cTime;
+        for(int bananas:arr){
+            // long cTime = 0;
+            // if(numOfBan%maxLm == 0 ){
+            //     cTime = numOfBan/maxLm;
+            // }
+            // else{
+            //     cTime = numOfBan/maxLm+1;
+            // }
+            time += (bananas + speed - 1) / speed;
 
         }
         if(time<=h){
