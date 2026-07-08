@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
