@@ -4,6 +4,7 @@ public:
         unordered_map<char,char> mp1;
         unordered_map<char,char> mp2;
         int n=s.length();
+        
         // for(auto it: s){
         //     sChar[it]++;
         // }
@@ -16,9 +17,6 @@ public:
             mp1[s[i]] = t[i];
             mp2[t[i]] = s[i];
         }
-        // if(sChar[]!= tChar[]){
-        //     return false;
-        // }
-    return true;
+        return true;
     }
 };
