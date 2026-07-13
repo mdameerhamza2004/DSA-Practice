@@ -4,9 +4,14 @@ public:
         int str =0;
         int end = s.size()-1;
         while(str <= end){
-            char temp = s[str];
-            s[str] = s[end];
-            s[end] = temp;
+            if(s[str] != s[end]){
+                s[str] = s[str]^s[end];
+                s[end] = s[str]^s[end];
+                s[str] = s[str]^s[end];
+            }
+            // char temp = s[str];
+            // s[str] = s[end];
+            // s[end] = temp;
 
             str++;
             end--;
