@@ -10,9 +10,9 @@ public:
         cout<<ans<<endl;
         int str =0;
         int end = ans.size()-1;
-        if(end==0){
-            return true;
-        }
+        // if(end==0){
+        //     return true;
+        // }
         while(str<=end){
             if(ans[str]!=ans[end]){
                 cout<<str<<" "<<end<<endl;
