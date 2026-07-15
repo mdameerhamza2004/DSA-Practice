@@ -106,11 +106,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0504-base-7) |
+| [0509-fibonacci-number](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0410-split-array-largest-sum) |
+| [0509-fibonacci-number](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -138,4 +140,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0415-add-strings) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
