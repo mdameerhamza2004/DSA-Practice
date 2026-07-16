@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0205-isomorphic-strings) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0392-is-subsequence](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0509-fibonacci-number) |
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
