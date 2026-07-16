@@ -22,8 +22,9 @@ public:
         while(i<m)ans.push_back(nums1[i++]);
         while(j<n)ans.push_back(nums2[j++]);
 
-        for(int k=0;k<nums1.size();k++){
-            nums1[k] = ans[k];
-        }
+        nums1 = ans;
+        // for(int k=0;k<nums1.size();k++){
+        //     nums1[k] = ans[k];
+        // }
     }
 };
