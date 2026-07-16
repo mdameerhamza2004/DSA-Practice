@@ -4,9 +4,14 @@ public:
         if(str>end){
             return;
         }
-        char temp = arr[str];
-        arr[str] = arr[end];
-        arr[end] = temp;
+        if(arr[str]!=arr[end]){
+            arr[str] = arr[str]^arr[end];
+            arr[end] = arr[str]^arr[end];
+            arr[str] = arr[str]^arr[end];
+        }
+        // char temp = arr[str];
+        // arr[str] = arr[end];
+        // arr[end] = temp;
 
         str+=1; end-=1;
         rev(arr,str,end);
