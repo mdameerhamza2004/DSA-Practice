@@ -7,8 +7,8 @@ public:
         char temp = arr[str];
         arr[str] = arr[end];
         arr[end] = temp;
-        str+=1;
-        end-=1;
+
+        str+=1; end-=1;
         rev(arr,str,end);
     }
     void reverseString(vector<char>& s) {
@@ -28,8 +28,6 @@ public:
         //     end--;
         // }
 
-        int str =0;
-        int end = s.size()-1;
-        rev(s,str,end);
+        rev(s,0,s.size()-1);
     }
 };
