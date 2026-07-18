@@ -34,13 +34,13 @@ public:
         }
         while(curr1){
            temp->next = new ListNode(curr1->val);
-           curr1 = curr1->next; 
            temp = temp->next;
+           curr1 = curr1->next; 
         }
         while(curr2){
             temp ->next = new ListNode(curr2->val);
-            curr2 = curr2->next;
             temp = temp->next;
+            curr2 = curr2->next;
         }
         return ansHead->next;
     }
