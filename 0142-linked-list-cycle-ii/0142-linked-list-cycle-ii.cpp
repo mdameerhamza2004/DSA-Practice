@@ -13,15 +13,15 @@ public:
             return NULL;
         }
         unordered_set<ListNode*> st;
-        // ListNode* curr = head;
-        while(head!=NULL){
-            if(st.find(head)!=st.end()){ // if node is found
-                return head;
+        ListNode* curr = head;
+        while(curr!=NULL){
+            if(st.find(curr)!=st.end()){ // if node is found
+                return curr;
             }
             else{
-                st.insert(head);
+                st.insert(curr);
             }
-            head = head->next;
+            curr = curr->next;
         }
         return NULL;
     }
