@@ -11,15 +11,29 @@ public:
     bool hasCycle(ListNode *head) {
     if(head == NULL){
         return false;
-    }  
-    unordered_set<ListNode*>st;
-    while(head){
-        if(st.count(head)){
+    }
+    ListNode* slow = head;
+    ListNode* fast = head->next;
+    while(fast and fast->next){
+        if(slow==fast){
             return true;
         }
-        st.insert(head);
-        head= head->next;
+        slow = slow->next;
+        fast = fast->next->next;
     }
     return false;
+
+    // if(head == NULL){
+    //     return false;
+    // }  
+    // unordered_set<ListNode*>st;
+    // while(head){
+    //     if(st.count(head)){
+    //         return true;
+    //     }
+    //     st.insert(head);
+    //     head= head->next;
+    // }
+    // return false;
     }
 };
