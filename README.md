@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0415-add-strings) |
+| [0443-string-compression](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0443-string-compression) |
 | [0504-base-7](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0504-base-7) |
 | [0567-permutation-in-string](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0771-jewels-and-stones) |
