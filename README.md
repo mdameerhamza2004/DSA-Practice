@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0575-distribute-candies) |
 | [0704-binary-search](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0724-find-pivot-index) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0771-jewels-and-stones) |
@@ -187,5 +189,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
