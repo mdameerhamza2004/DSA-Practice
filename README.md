@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -199,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0496-next-greater-element-i) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
