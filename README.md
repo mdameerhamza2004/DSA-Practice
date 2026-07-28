@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0415-add-strings](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0504-base-7) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0509-fibonacci-number) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/mdameerhamza2004/DSA-Practice/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
