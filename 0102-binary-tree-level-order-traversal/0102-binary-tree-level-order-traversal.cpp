@@ -23,9 +23,15 @@ public:
                 TreeNode* curr = q.front();
                 q.pop();
                 level.push_back(curr->val);
-                if(curr->left!=NULL)
-                q.push(curr->left);
-                if(curr->right !=NULL) q.push(curr->right);
+                if(i%2==0){
+                    if(curr->left!=NULL)  q.push(curr->left);
+                    if(curr->right !=NULL) q.push(curr->right);
+                }
+                else{
+                    if(curr->left!=NULL)  q.push(curr->left);
+                    if(curr->right !=NULL) q.push(curr->right);
+
+                }
             }
             ans.push_back(level);
         }
